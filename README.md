@@ -53,7 +53,7 @@ print(generator("Once upon a time", do_sample=True, min_length=20)[0]['generated
 
 ## Biases
 
-As this model was trained on select literature from the 19th and 20th century, certain biases and sterotypes may be expressed in generated texts which are neither endorsed or supported by the author of this model and are purely results of the literature used to train this model.
+As this model was trained on select literature from the 18th, 19th, 20th century, certain biases and sterotypes may be expressed in generated texts which are neither endorsed or supported by the author of this model and are purely results of the literature used to train this model.
 
 ## Disclaimer
 
