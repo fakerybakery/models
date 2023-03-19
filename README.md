@@ -37,7 +37,7 @@ extra_gated_fields:
 
 # BalladGPT
 
-This is the latest version BalladGPT. [You can try the old BalladGPT here](https://huggingface.co/mrfakename/BalladGPT). The old BalladGPT's dataset size was 568 KB, whereas the NEW BalladGPT's dataset size is 926 KB.
+This is the latest version BalladGPT. [You can try the old BalladGPT here](https://huggingface.co/mrfakename/BalladGPT-Old-V1). The old BalladGPT's dataset size was 568 KB, whereas the NEW BalladGPT's dataset size is 926 KB.
 
 ## Usage
 
