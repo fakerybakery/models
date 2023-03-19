@@ -9,8 +9,29 @@ tags:
 - balladgpt
 - finetuned
 widget:
-- text: Once upon a time,
-- text: The island in the river
+- text: |
+    In days of yore when valiant kings
+    Did roam the eastern waste,
+- text: |
+    The mighty Queen was her shield
+    And she looked like no mother,
+- text: |
+    The ancient temple stood alone
+    In deserts dry and climes unknown,
+- text: |
+    The funeral barge, all decked in black,
+- text: |
+    He who goes up is slain,
+    And will never return
+- text: |
+    He made a vow, to never cut his beard,
+    Until the day he safely returned,
+- text: |
+    The arrow whistled from the bow,
+    And the shaft sank deep into the tree
+- text: |
+    And still it stood,
+    A memorandom of the greatness once possessed,
 extra_gated_heading: "Please carefully read the information below before continuing."
 extra_gated_prompt: >-
   This model is for non-commercial educational purposes only. Please fill out the forms below to obtain access to this model.
