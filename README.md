@@ -72,11 +72,6 @@ The BalladGPT dataset is not available at the present moment.
 - Dataset Size: 926 KB
 - Date Trained: March 18, 2023
 
-This model was trained upon several works, including but not limited to:
-
-- Idylls of the King by Alfred Lord Tennyson
-- The Ballad of the White Horse by G. K. Chesterton
-
 ## Updates
 
 We are not intending to update this model.
